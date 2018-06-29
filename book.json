@@ -1,0 +1,17 @@
+{
+    "title": "P2P 常见问题说明",
+    "description": "记录说明 P2P 常见问题说明",
+    "author": "peergine-admin",
+    "output.name": "site",
+    "language": "zh-hans",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "Home": "http://www.peergine.com"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "-livereload"
+    ]
+}
